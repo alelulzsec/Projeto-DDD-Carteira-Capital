@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Domain.Tests\bin\Debug\DDDCarteira.Domain.Tests.dll
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Domain.Tests\bin\Debug\DDDCarteira.Domain.Tests.pdb
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Domain.Tests\obj\Debug\DDDCarteira.Domain.Tests.csprojAssemblyReference.cache
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Domain.Tests\obj\Debug\DDDCarteira.Domain.Tests.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Domain.Tests\obj\Debug\DDDCarteira.Domain.Tests.dll
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Domain.Tests\obj\Debug\DDDCarteira.Domain.Tests.pdb

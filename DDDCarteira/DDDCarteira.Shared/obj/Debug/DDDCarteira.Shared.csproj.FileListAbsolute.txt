@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Shared\bin\Debug\DDDCarteira.Shared.dll
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Shared\bin\Debug\DDDCarteira.Shared.pdb
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Shared\obj\Debug\DDDCarteira.Shared.csprojAssemblyReference.cache
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Shared\obj\Debug\DDDCarteira.Shared.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Shared\obj\Debug\DDDCarteira.Shared.dll
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Shared\obj\Debug\DDDCarteira.Shared.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Infraestrutura.Data\bin\Debug\DDDCarteira.Infraestrutura.Data.dll
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Infraestrutura.Data\bin\Debug\DDDCarteira.Infraestrutura.Data.pdb
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Infraestrutura.Data\obj\Debug\DDDCarteira.Infrastructure.Data.csprojAssemblyReference.cache
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Infraestrutura.Data\obj\Debug\DDDCarteira.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Infraestrutura.Data\obj\Debug\DDDCarteira.Infraestrutura.Data.dll
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Infraestrutura.Data\obj\Debug\DDDCarteira.Infraestrutura.Data.pdb

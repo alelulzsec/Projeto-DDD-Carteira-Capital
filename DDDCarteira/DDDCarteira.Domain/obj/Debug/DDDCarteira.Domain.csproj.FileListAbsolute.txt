@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Domain\obj\Debug\DDDCarteira.Domain.csprojAssemblyReference.cache
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Domain\obj\Debug\DDDCarteira.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Domain\bin\Debug\DDDCarteira.Domain.dll
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Domain\bin\Debug\DDDCarteira.Domain.pdb
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Domain\obj\Debug\DDDCarteira.Domain.dll
+C:\Users\user\Desktop\DDDCarteira\DDDCarteira\DDDCarteira.Domain\obj\Debug\DDDCarteira.Domain.pdb
