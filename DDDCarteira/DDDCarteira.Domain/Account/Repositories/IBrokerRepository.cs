@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace DDDCarteira.Domain.Account.Repositories
 {
    public interface IBrokerRepository{
-        Broker GetById();
+        Broker GetById(Guid newId);
         void Save(Broker broker);
         IEnumerable<Broker> GetBrokers();
         object GetbyId(Guid guid);

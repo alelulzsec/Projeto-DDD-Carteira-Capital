@@ -13,5 +13,7 @@ namespace DDDCarteira.Domain.Account.Repositories{
         Wallet GetParcelByCode(string code);
         IEnumerable<Wallet> GetWalletsByCustomer(Guid id);
         IEnumerable<Wallet> GetWalletsByBroker(Guid id);
+        Wallet GetWalletByCode(string code);
+        void Save(object wallet);
     }
 }
