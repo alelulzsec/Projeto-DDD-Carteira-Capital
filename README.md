@@ -1,9 +1,9 @@
 # Projeto-DDD-Carteira-Capital
-Projeto Utilizando DDD - Carteira Capital
-
 Repositório para a implementação do Projeto Carteira Capital
 
-Projeto de Desenvolvimento de sistema de informações 5º Semestre BCC UNIVEM
+Projeto Utilizando DDD (Domain Driven Design)
+
+Projeto da Disciplina de Desenvolvimento de sistema de informações 5º Semestre BCC UNIVEM
 
 Integrantes:
 
